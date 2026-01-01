@@ -16,6 +16,6 @@ XGBoost to capture non-linear effects and feature interactions
 Model performance is evaluated using ROC-AUC and F1-score, with additional analysis through feature importance and partial dependence plots.
 ## Technologies
 R, R Markdown, Apache Arrow, Parquet, Google Cloud Storage, biglasso, xgboost, caret, DALEX
-Data Source
-## The dataset used in this project is publicly available on Kaggle
+## Data Source
+The dataset used in this project is publicly available on Kaggle
 (E-commerce Behavior Data from Multi-Category Store). Only a subset of the data (November 2019) is used in the analysis.
